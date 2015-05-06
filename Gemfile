@@ -39,3 +39,5 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 gem "devise"
 gem "bootstrap-sass"
+gem "acts_as_votable"
+gem "better_errors"
